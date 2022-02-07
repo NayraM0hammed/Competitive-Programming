@@ -1,56 +1,38 @@
-## Problems Links
+# ***Problems Links***
 
-#1- Atcoder_Vacation   -atcoder
-problem link = https://atcoder.jp/contests/dp/tasks/dp_c?lang=en;
+1- [***Atcoder Vacation***](https://atcoder.jp/contests/dp/tasks/dp_c?lang=en).
 
-#2- Frog 1     -Atcoder
-problem link = https://atcoder.jp/contests/dp/tasks/dp_a?lang=en
+2- [***Frog 1***](https://atcoder.jp/contests/dp/tasks/dp_a?lang=en).
 
-#3- Frog 2     -Atcoder
-problem link = https://atcoder.jp/contests/dp/tasks/dp_b?lang=en
+3- [***Frog 2***](https://atcoder.jp/contests/dp/tasks/dp_b?lang=en).
 
-#4- Knapsack1  -Atcoder
-problem link = https://atcoder.jp/contests/dp/tasks/dp_d?lang=en
+4- [***Knapsack 1***](https://atcoder.jp/contests/dp/tasks/dp_d?lang=en).
 
-#5- Easy Longest Increasing Subsequence    -Spoj 
-problem link = https://www.spoj.com/problems/ELIS/en/
+5- [***Easy Longest Increasing Subsequence***](https://www.spoj.com/problems/ELIS/en/).
 
-#6- DIVISIBILTY  -UVA
-problem link = https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=977
+6- [***Divisibility***](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=977).
 
-#7- Philosophers Stone     -Spoj 
-problem link = https://www.spoj.com/problems/BYTESM2/en/
+7- [***Philosophers Stone***](https://www.spoj.com/problems/BYTESM2/en/).
 
-#8- UVA Vacation -UVA
-problem link = https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1133
+8- [***UVA Vacation***](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1133).
 
-#9- Boredom  -Codeforces
-problem link = https://codeforces.com/problemset/problem/456/C 
+9- [***Boredom***](https://codeforces.com/problemset/problem/456/C ).
 
-#10- Dividing coins   -UVA
-problem link = https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=503
+10- [***Dividing coins***](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=503).
 
-#11- Vacations   -Codeforces
-problem link = https://codeforces.com/problemset/problem/699/C
+11- [***Vacations***](https://codeforces.com/problemset/problem/699/C).
 
-#12- Knapsack 2  -Atcoder
-problem link = https://atcoder.jp/contests/dp/tasks/dp_e?lang=en 
+12- [***Knapsack 2***](https://atcoder.jp/contests/dp/tasks/dp_e?lang=en ).
 
-#13- Woodcutters  -Codeforces
-problem link = https://codeforces.com/contest/545/problem/C
+13- [***Woodcutters***](https://codeforces.com/contest/545/problem/C).
 
-#14- Hard problem  -Codeforces
-problem link = https://codeforces.com/contest/706/problem/C
+14- [***Hard problem***](https://codeforces.com/contest/706/problem/C).
 
-#15- SuperSale  -UVA
-problem link = https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1071
+15- [***SuperSale***](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1071).
 
-#16- Dima and Salad  -Codeforces
-problem link = https://codeforces.com/contest/366/problem/C 
+16- [***Dima and Salad***](https://codeforces.com/contest/366/problem/C ).
 
-#17- Walking on the Safe Side  -UVA
-problem link = https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=766
+17- [***Walking on the Safe Side***](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=766).
 
-#18- Barcode   -Codeforces
-problem link = https://codeforces.com/problemset/problem/225/C
+18- [***Barcode***](https://codeforces.com/problemset/problem/225/C).
 
