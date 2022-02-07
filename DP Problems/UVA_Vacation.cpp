@@ -23,9 +23,9 @@ void SADIEM() {
 }
 /*
 
- ì Iíd like to let you in on a very important secret I learned when I was about your age, boy.
- You see, power, real power doesnít come to those who were born strongest or fastest or smartest.
- No. It comes to those who will do anything to achieve it.î
+ ‚Äú I‚Äôd like to let you in on a very important secret I learned when I was about your age, boy.
+ You see, power, real power doesn‚Äôt come to those who were born strongest or fastest or smartest.
+ No. It comes to those who will do anything to achieve it.‚Äù
 
  */
 
