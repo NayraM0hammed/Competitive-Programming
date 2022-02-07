@@ -1,5 +1,4 @@
-## ProblemsLinks
- /* some Dp Solutions*/
+## Problems Links
 
 #1- Atcoder_Vacation   -atcoder
 problem link = https://atcoder.jp/contests/dp/tasks/dp_c?lang=en;
