@@ -36,3 +36,5 @@
 
 18- [***Barcode***](https://codeforces.com/problemset/problem/225/C).
 
+19- [***UVA String to Palindrome***](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1680).
+
