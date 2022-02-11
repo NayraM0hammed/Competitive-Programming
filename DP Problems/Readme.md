@@ -38,3 +38,5 @@
 
 19- [***UVA String to Palindrome***](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1680).
 
+19- [***LCS***](https://atcoder.jp/contests/dp/tasks/dp_f).
+
