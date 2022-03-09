@@ -28,6 +28,7 @@ void SADIEM() {
 	cout.tie(0);
 }
 
+
 /*
 
  “ I’d like to let you in on a very important secret I learned when I was about your age, boy.
@@ -35,6 +36,7 @@ void SADIEM() {
  No. It comes to those who will do anything to achieve it.”
 
  */
+
 vector<vector<int>> v;
 bool vis[N], cats[N];
 int m;
