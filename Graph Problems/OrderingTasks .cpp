@@ -44,16 +44,6 @@ void Back_Orig() {
 	vis.resize(n + 1);
 }
 
-void DFS(int u) {
-	vis[u] = 1;
-	for (auto c : v[u])
-		if (!vis[c])
-			DFS(c);
-
-	cout << u << " ";
-
-}
-
 void BFS(int u) {
 	queue<int> q;
 	stack<int> s;
