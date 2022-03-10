@@ -58,12 +58,13 @@ void BFS(int u) {
 	queue<int> q;
 	stack<int> s;
 	q.push(u);
+	vis[u] = true;
 	while (sz(q)) {
-		u = q.front(), q.pop(), vis[u] = true;
+		u = q.front(), q.pop();
 		s.push(u);
 		for (auto c : v[u])
 			if (!vis[c])
-				q.push(c);
+				q.push(c), vis[c] = true;
 	}
 	while (sz(s))
 		cout << s.top() << " ", s.pop();
