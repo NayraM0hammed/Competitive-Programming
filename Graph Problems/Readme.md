@@ -7,3 +7,4 @@
 |4| [***Pick up sticks***](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2733).|
 |5| [***Nature***](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1626).|
 |6| [***Is it a tree***](https://www.spoj.com/problems/PT07Y/en/).|
+|7| [***Knight Moves***](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=380).|
