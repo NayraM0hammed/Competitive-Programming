@@ -8,3 +8,4 @@
 |5| [***Nature***](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1626).|
 |6| [***Is it a tree***](https://www.spoj.com/problems/PT07Y/en/).|
 |7| [***Knight Moves***](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=380).|
+|8| [***Two Buttons***](https://codeforces.com/problemset/problem/520/B).|
