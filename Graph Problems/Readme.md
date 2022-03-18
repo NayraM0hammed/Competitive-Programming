@@ -11,3 +11,4 @@
 |8| [***Two Buttons***](https://codeforces.com/problemset/problem/520/B).|
 |9| [***Fire Again***](https://codeforces.com/problemset/problem/35/C).|
 |10| [***Cthulhu***](https://codeforces.com/problemset/problem/104/C).|
+|11| [***Counting Cells in a Blob***](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=812).|
