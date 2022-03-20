@@ -14,3 +14,4 @@
 |11| [***Counting Cells in a Blob***](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=812).|
 |12| [***King's Path***](https://codeforces.com/problemset/problem/242/C).|
 |13| [***Maze***](https://codeforces.com/contest/377/problem/A).|
+|13| [***Dorm Water Supply***](https://codeforces.com/problemset/problem/107/A).|
