@@ -15,4 +15,4 @@
 |12| [***King's Path***](https://codeforces.com/problemset/problem/242/C).|
 |13| [***Maze***](https://codeforces.com/contest/377/problem/A).|
 |14| [***Dorm Water Supply***](https://codeforces.com/problemset/problem/107/A).|
-|14| [***Brain Network (medium)***](https://codeforces.com/problemset/problem/690/C2).|
+|15| [***Brain Network (medium)***](https://codeforces.com/problemset/problem/690/C2).|
