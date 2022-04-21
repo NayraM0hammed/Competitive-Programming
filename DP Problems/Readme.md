@@ -29,3 +29,4 @@
 |26| [***Longest Path***](https://atcoder.jp/contests/dp/tasks/dp_g).|
 |27| [***Sleeping Schedule***](https://codeforces.com/problemset/problem/1324/E).|
 |28| [***Pokémon Army (easy version)***](https://codeforces.com/contest/1420/problem/C1).|
+|29| [***Tanya and Colored Candies***](https://codeforces.com/contest/1057/problem/C).|
