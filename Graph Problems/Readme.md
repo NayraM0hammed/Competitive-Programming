@@ -18,3 +18,4 @@
 |15| [***Brain Network (medium)***](https://codeforces.com/problemset/problem/690/C2).|
 |16| [***White-Black Balanced Subtrees***](https://codeforces.com/contest/1676/problem/G).|
 |17| [***Igor In the Museum***](https://codeforces.com/problemset/problem/598/D).|
+|18| [***Graph Without Long Directed Paths***](https://codeforces.com/contest/1144/problem/F).|
