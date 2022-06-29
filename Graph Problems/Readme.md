@@ -24,3 +24,4 @@
 |21| [***Learning Languages***](https://codeforces.com/contest/277/problem/A).|
 |22| [***Jumping***](https://codeforces.com/gym/101147/problem/E).|
 |23| [***Shortest Reach***](https://www.hackerrank.com/challenges/bfsshortreach/problem).|
+|24| [***Rook, Bishop and King***](https://codeforces.com/problemset/problem/370/A).|
