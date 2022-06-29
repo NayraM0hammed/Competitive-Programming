@@ -25,4 +25,4 @@
 |22| [***Jumping***](https://codeforces.com/gym/101147/problem/E).|
 |23| [***Shortest Reach***](https://www.hackerrank.com/challenges/bfsshortreach/problem).|
 |24| [***Rook, Bishop and King***](https://codeforces.com/problemset/problem/370/A).|
-|24| [***Amr and Chemistry***](https://codeforces.com/contest/558/problem/C).|
+|25| [***Amr and Chemistry***](https://codeforces.com/contest/558/problem/C).|
