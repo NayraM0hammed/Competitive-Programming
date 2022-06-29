@@ -20,3 +20,7 @@
 |17| [***Igor In the Museum***](https://codeforces.com/problemset/problem/598/D).|
 |18| [***Graph Without Long Directed Paths***](https://codeforces.com/contest/1144/problem/F).|
 |19| [***Wetlands of Florida***](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=410).|
+|20| [***Roads and Libraries***](https://www.hackerrank.com/contests/world-codesprint-8/challenges/torque-and-development).|
+|21| [***Learning Languages***](https://codeforces.com/contest/277/problem/A).|
+|22| [***Jumping***](https://codeforces.com/gym/101147/problem/E).|
+|23| [***Shortest Reach***](https://www.hackerrank.com/challenges/bfsshortreach/problem).|
