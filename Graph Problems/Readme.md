@@ -26,3 +26,4 @@
 |23| [***Shortest Reach***](https://www.hackerrank.com/challenges/bfsshortreach/problem).|
 |24| [***Rook, Bishop and King***](https://codeforces.com/problemset/problem/370/A).|
 |25| [***Amr and Chemistry***](https://codeforces.com/contest/558/problem/C).|
+|26| [***New Year Permutation***](https://codeforces.com/contest/500/problem/B).|
