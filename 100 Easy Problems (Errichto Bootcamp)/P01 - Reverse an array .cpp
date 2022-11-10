@@ -11,24 +11,6 @@ typedef long long ll;
 using namespace std;
 const ll Mod = 1e9 + 7, INF = 1e18;
 const ll N = 1e6 + 1, O_O = LONG_LONG_MAX, T_T = INT_MAX, V_V = INT_MIN;
-/*
-#include <ext/pb_ds/assoc_container.hpp>
-#include <ext/pb_ds/tree_policy.hpp>
-using namespace __gnu_pbds;
-typedef tree<pair<int,int>, null_type, less<int>, rb_tree_tag, tree_order_statistics_node_update> Set;
-typedef tree<int, null_type, greater_equal<int>, rb_tree_tag, tree_order_statistics_node_update> Or_Set;
-*/
-// 8 neighbors
-
-int Dx[] = {-1, -1, -1, 0, 0, 1, 1, 1}; // Knight_mov:2, 1, -1, -2, -2, -1, 1, 2
-int Dy[] = {-1, 0, 1, -1, 1, -1, 0, 1}; // 1, 2, 2, 1, -1, -2, -2, -1
-
-// 4 neighbors
-
-int dx[] = {0, 0, 1, -1};
-int dy[] = {-1, 1, 0, 0};
-
-string dir = "LRDU";
 //"Look deep into your soul, into the dark and foggy mist of your memories"
 
 void SADIEM()
