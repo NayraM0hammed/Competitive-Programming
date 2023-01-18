@@ -31,3 +31,4 @@
 |28| [***Pokémon Army (easy version)***](https://codeforces.com/contest/1420/problem/C1).|
 |29| [***Tanya and Colored Candies***](https://codeforces.com/contest/1057/problem/C).|
 |30| [***Count Sorted Vowel Strings***](https://leetcode.com/problems/count-sorted-vowel-strings/).|
+|31| [***Magic Numbers***](https://codeforces.com/contest/628/problem/D).|
