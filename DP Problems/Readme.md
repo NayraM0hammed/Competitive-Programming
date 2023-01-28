@@ -32,3 +32,4 @@
 |29| [***Tanya and Colored Candies***](https://codeforces.com/contest/1057/problem/C).|
 |30| [***Count Sorted Vowel Strings***](https://leetcode.com/problems/count-sorted-vowel-strings/).|
 |31| [***Magic Numbers***](https://codeforces.com/contest/628/problem/D).|
+|32| [***Tiling Up Blocks***](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3637).|
