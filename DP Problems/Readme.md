@@ -34,3 +34,4 @@
 |31| [***Magic Numbers***](https://codeforces.com/contest/628/problem/D).|
 |32| [***Tiling Up Blocks***](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3637).|
 |33| [***Burst Balloons***](https://leetcode.com/problems/burst-balloons/).|
+|34| [***Digit Sum***](https://www.spoj.com/problems/PR003004/).|
